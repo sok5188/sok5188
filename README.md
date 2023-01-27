@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
-<img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AWS EC2&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AWS RDS&logoColor=white">
 
 ![sok5188's github stats](https://github-readme-stats.vercel.app/api?username=sok5188&show_icons=true)
 
