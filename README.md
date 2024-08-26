@@ -15,13 +15,13 @@
 🧑🏻 어떤 환경에서도 잘 적응해내는 편입니다.
 
 <br/>
-:punch: Strong :punch:  
-<br/>
+:punch: Strong :punch:  <br/>
+
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 
 <br/>
-📝 Knowledgeable 📝
-<br/>
+📝 Knowledgeable 📝 <br/>
+
 <img src="https://img.shields.io/badge/pinpoint-00FF00?style=for-the-badge&logo=pinpoint&logoColor=white"> <img src="https://img.shields.io/badge/nGrinder-D8D8D8?style=for-the-badge&logo=nGrinder&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Nuget-004880?style=for-the-badge&logo=Nuget&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-A9F5F2?style=for-the-badge&logo=C#&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 ![sok5188's github stats](https://github-readme-stats.vercel.app/api?username=sok5188&show_icons=true)
