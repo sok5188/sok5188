@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello!%20안녕하세요!&fontSize=90)
   
-:page_with_curl: <a href="https://sirong.notion.site/1228653585b945f9ae464daeeffa214c">portfolio</a> :page_with_curl:
+:page_with_curl: <a href="https://sirong.notion.site/1228653585b945f9ae464daeeffa214c"><h4>portfolio</h4></a> :page_with_curl:
 
   
 안녕하세요
-1년차 백엔드 개발자 신원균 입니다.
+1년차 개발자 신원균 입니다.
 
+😄 문제의 원인을 찾고 분석하며 해결해내는 것을 좋아합니다.
+
+👍🏻 깊게 이해하려 노력하며, 이를 바탕으로 업무에 대해 주인의식을 가지고 일하는 편입니다.
+
+🎙️ 업무를 하며 여러 직군의 사람들과 소통하고, 해외의 개발자와도 같이 일해본 경험이 있습니다.
+
+🧑🏻 어떤 환경에서도 잘 적응해내는 편입니다.
   
 :punch: Strong :punch:  
 
