@@ -13,7 +13,7 @@
 
 📝 Knowledgeable 📝
 
-<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Nuget-#004880?style=for-the-badge&logo=Nuget&logoColor=white">
+<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Nuget-004880?style=for-the-badge&logo=Nuget&logoColor=white">
 
 ![sok5188's github stats](https://github-readme-stats.vercel.app/api?username=sok5188&show_icons=true)
 
